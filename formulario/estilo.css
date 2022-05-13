@@ -1,0 +1,19 @@
+*  {
+    margin: 0; padding: 0;
+ }
+
+  input:focus {
+      background-color: rgb(218, 61, 61);
+  }
+
+  html{
+      width: 750px; height: 750px;
+      background-color: rgb(255, 255, 255);
+  
+    }
+
+  body{
+      width: 375px; height: 425px;
+      margin: auto; background-color: rgb(57, 221, 139);
+      padding: 30px;
+  }
